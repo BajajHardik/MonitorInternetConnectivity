@@ -15,7 +15,7 @@ Dependency
 Include the library in your build.gradle
 
     dependencies{ 
-        implementation 'com.github.BajajHardik:MonitorInternetConnectivity:1.0'
+        implementation 'com.github.BajajHardik:MonitorInternetConnectivity:1.1'
     }
 
 This is how you can use this library in your android project:
